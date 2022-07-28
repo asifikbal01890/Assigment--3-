@@ -16,3 +16,6 @@ body{
     width: 606px;
     height: 190px;
 }
+.text-color{
+    color: rgba(40, 155, 222, 1);
+}
