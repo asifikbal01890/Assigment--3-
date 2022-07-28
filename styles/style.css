@@ -18,4 +18,9 @@ body{
 }
 .text-color{
     color: rgba(40, 155, 222, 1);
+
+}
+.questions{
+    width: 872px;
+    height: 710px;
 }
